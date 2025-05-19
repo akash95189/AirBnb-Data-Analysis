@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions.
+This project is an end-to-end data analysis solution designed to extract critical business insights from AirBnb data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions.
 
 ---
 ## Project Steps
@@ -27,10 +27,10 @@ This project is an end-to-end data analysis solution designed to extract critica
   - **Validation**: Check for any remaining inconsistencies and verify the cleaned data.
 
 
-### 6. Load Data into `.csv` format
+### 5. Load Data into `.csv` format
   - **To CSV File**- Save the cleaned file into `.csv` format for any further use.
 
-### 7. Python Analysis using Matplotlib and Seaborn: Plotting the required Business Problem Solving
+### 6. Python Analysis using Matplotlib and Seaborn: Plotting the required Business Problem Solving
   - **Business Problem-Solving**: Write and execute complex Python queries to answer critical business questions, such as:
     - Analysing Price Distribution(DOne with different plots.
     - Making Dataset Concise for better Visualisation.
@@ -52,5 +52,5 @@ Possible extensions to this project:
 ## Acknowledgments
 
 - **Data Source**: Kaggle’s Walmart Sales Dataset
-- **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
+- **Inspiration**: AirBnb’s business case studies on sales and supply chain optimization.
 ---
